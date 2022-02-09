@@ -75,7 +75,8 @@ export default {
   justify-content: flex-start;
   align-items: center;
   width: 100%;
-  background-image: url("https://cliply.co/wp-content/uploads/2019/08/371908020_CONFETTI_400px.gif");
+  height: auto;
+  background-image: url("https://cliply.co/wp-content/uploads/2020/01/401911130_THINKING_FACE_BG_400.gif");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
